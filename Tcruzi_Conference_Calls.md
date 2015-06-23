@@ -8,7 +8,7 @@ output: html_document
 #### Manual annotation and UCs:
 [Summary of annotation updates](https://docs.google.com/spreadsheets/d/1Ut4yv5Rx84NjWN5Ksm7nT_eQ0ScVhrwbGHmlWdcGdU4/edit?usp=sharing) (googledoc)
 
-See GeneDB [rss](http://www.genedb.org/rss/Lbraziliensis/since/4/months) for more details
+See GeneDB [rss](http://www.genedb.org/rss/Tcruzi/since/4/months) for a log of all the changes
 
 Curated dataset _T. cruzi_ Contractile vacuole proteome: Identification of contractile vacuole proteins in Trypanosoma cruzi [PMID:21437209](https://www.ncbi.nlm.nih.gov/pubmed/21437209)
 
