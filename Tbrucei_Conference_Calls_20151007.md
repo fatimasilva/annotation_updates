@@ -13,7 +13,7 @@ output: html_document
 ### <a name=activities>Activities since last conference call (Jun 2015)</a>
 
 #### Manual annotation and UCs
-[Summary of annotation updates](https://docs.google.com/spreadsheets/d/10VPiZekkTSfYrkVRVCSUQ2tFxwttu-9C1mYgCf6wjv4/edit?usp=sharing) (googledoc)
+[Summary of annotation updates](https://docs.google.com/spreadsheets/d/12Tql8Acm-Gtx7TmfrVpAZWu2BZkRG0K5X_MYmOnoYBI/edit?usp=sharing) (googledoc)
 
 See GeneDB rss for a log of all the changes:
 
