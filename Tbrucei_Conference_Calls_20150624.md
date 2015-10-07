@@ -27,7 +27,7 @@ We are submitting annotation to GOC every six months, last submission was in Mar
 Available at GeneDB, will be loaded in future releases of TriTrypDB
 
 #### **Added domain based product description for hypothetical proteins**
-Products based on Pfam domain hits where added to ~1200 hypothetical proteins (available at GeneDB and in next release of TriTrypDB).
+Products based on Pfam domain hits were added to ~1200 hypothetical proteins (available at GeneDB and in next release of TriTrypDB).
 
 #### **Updated functional annotation in next release of TriTrypDB (GeneDB version: May 2015)**
 Functional annotation updates (products, names, GO terms and EC numbers) will be available in TriTrypDB 25 (last updated on Nov 2014).
